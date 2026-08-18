@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ambica 👋
 
-<!--
-**ambica-roy/ambica-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a DevOps and Cybersecurity professional interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS
+- Linux
+- Git & GitHub
+- Docker
+- Kubernetes
+- CI/CD
+- Cloud Security
+- SOC & Security Operations
+
+## Skills
+
+### Cloud
+AWS | EC2 | S3 | IAM | Route 53 | CloudWatch
+
+### DevOps
+Git | GitHub | Jenkins | Docker | Kubernetes | Terraform
+
+## Currently Learning
+
+- AWS DevOps
+- Kubernetes
+- Cloud Security
+
+## Connect With Me
+
+[GitHub](https://github.com/)
