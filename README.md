@@ -1,3 +1,5 @@
+Git Bash practice by Ambica
+
 # Hi, I'm Ambica 👋
 
 ## About Me
